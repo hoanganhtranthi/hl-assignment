@@ -1,0 +1,16 @@
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.exe
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.deps.json
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.runtimeconfig.json
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.runtimeconfig.dev.json
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.dll
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\bin\Debug\net5.0\MiniMaxSum.pdb
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.csproj.AssemblyReference.cache
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.AssemblyInfoInputs.cache
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.AssemblyInfo.cs
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.csproj.CoreCompileInputs.cache
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.dll
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\refint\MiniMaxSum.dll
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.pdb
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\MiniMaxSum.genruntimeconfig.cache
+D:\PRN231\MiniMaxSumSolution\MiniMaxSum\obj\Debug\net5.0\ref\MiniMaxSum.dll
